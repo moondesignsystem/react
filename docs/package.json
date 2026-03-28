@@ -10,21 +10,21 @@
   },
   "dependencies": {
     "@moondesignsystem/react": "file:../packages",
-    "@tailwindcss/vite": "^4.1.14",
-    "react": "^19.2.0",
-    "tailwindcss": "^4.1.14",
+    "@tailwindcss/vite": "^4.2.2",
+    "react": "^19.2.4",
+    "tailwindcss": "^4.2.2",
     "@tanstack/react-table": "^8.21.3"
   },
   "devDependencies": {
-    "@chromatic-com/storybook": "^4.1.1",
-    "@storybook/addon-a11y": "^9.1.10",
-    "@storybook/addon-docs": "^9.1.10",
-    "@storybook/addon-vitest": "^9.1.10",
-    "@storybook/react-vite": "^9.1.10",
-    "@storybook/addon-themes": "^9.1.10",
-    "@vitejs/plugin-react": "^5.0.4",
-    "chromatic": "^13.3.0",
+    "@chromatic-com/storybook": "^5.1.1",
+    "@storybook/addon-a11y": "^10.3.3",
+    "@storybook/addon-docs": "^10.3.3",
+    "@storybook/addon-vitest": "^10.3.3",
+    "@storybook/react-vite": "^10.3.3",
+    "@storybook/addon-themes": "^10.3.3",
+    "@vitejs/plugin-react": "^5.2.0",
+    "chromatic": "^16.0.0",
     "typescript": "^5.9.3",
-    "vite": "^7.1.9"
+    "vite": "^7.3.1"
   }
 }

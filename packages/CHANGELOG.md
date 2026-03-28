@@ -1,5 +1,11 @@
 # @moondesignsystem/react
 
+## 2.5.21
+
+### Patch Changes
+
+- fix: update packages
+
 ## 2.5.20
 
 ### Patch Changes
